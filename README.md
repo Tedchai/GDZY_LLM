@@ -22,5 +22,7 @@ All data were captured between **2023-09-02 and 2023-09-09** (UTC+8), reflecting
 
 ## 🔗 Citation
 
-If referencing this dataset, please cite the associated BuildSys2025 paper:
+## 实现代码
+
+SCOLT 控制器实现与算法对比实验代码：[**SCOLT**](https://github.com/Tedchai/SCOLT)
 
